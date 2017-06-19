@@ -66,8 +66,8 @@ class FG_eval
     //
     // Used the equations from the solution to the quiz directly..
     
-      int k_cte     = 1; // larger values does not allow the car to go faster
-      int k_epsi    = 1; // althogh they reduces the cte and epsi errors
+      int k_cte     = 1; // larger values do not allow the car to go faster
+      int k_epsi    = 1; // althogh they reduce the cte and epsi errors
       int k_v       = 1;
       
       int k_delta   = 100;
