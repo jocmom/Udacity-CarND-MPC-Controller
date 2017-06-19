@@ -20,7 +20,7 @@ using CppAD::AD;
 size_t N    = 20;
 double dt   = 0.01;
 
-// For debuuging purposes, to check the maximum speed possible
+// For debugging purposes, to check the maximum speed possible
 
 bool check_max_speed = false;
 
