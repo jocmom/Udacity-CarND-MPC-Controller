@@ -8,7 +8,8 @@ using CppAD::AD;
 //
 // Acknowledgements: Thanks to the course quizz answers and the solution walkthru'
 // by the Udacity instructors Aaron Brown and ??.. help video here https://www.youtube.com/watch?v=bOQuhpz3YfU
-// Thanks to my mentor Christian Sousa for pointing to the right material and help
+// Thanks to my mentor Christian Sousa for pointing to the right material and help in fixing the error in the 3rd order
+// polynomial. Without him I would not have gotten this far.!!
 //
 // The various constants for reducing the error has been a hard, painstaking, trial and error method
 // Took a while to get the right values to get the car moving well, w/o going off, sudden jerks etc.
